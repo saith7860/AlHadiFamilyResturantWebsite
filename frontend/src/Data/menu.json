@@ -1,0 +1,276 @@
+{
+    "categories": [
+    {
+      "name": "Appetizer",
+      "items": [
+        { "name": "Crunchy Chicken (6 pcs)", "price": 880 },
+        { "name": "Chicken Adobo", "price": 990 },
+        { "name": "Dhaka Chicken", "price": 880 },
+        { "name": "Chicken Nuggets (8 pcs)", "price": 780 },
+        { "name": "Chilli Wings", "price": 750 },
+        { "name": "Honey Wings (12 pcs)", "price": 880 },
+        { "name": "Fried Wings (12 pcs)", "price": 780 },
+        { "name": "French Fries", "price": 380 },
+        { "name": "Fish Cracker", "price": 380 }
+      ]
+    },
+    {
+      "name": "Soup",
+      "items": [
+        { "name": "Haadi Special Soup", "full": 1090, "half": 790 },
+        { "name": "Hot & Sour Soup", "full": 990, "half": 690 },
+        { "name": "Chicken Corn Soup", "full": 890, "half": 590 },
+        { "name": "Thai Soup", "full": 690, "half": 490 }
+      ]
+    },
+    {
+      "name": "Sea Foods",
+      "items": [
+        { "name": "Grill Fish (1kg)", "price": 2000 },
+        { "name": "Fried Fish (1kg)", "price": 2100 },
+        { "name": "Finger Fish", "price": 1820 },
+        { "name": "Dhaka Fish", "price": 1820 }
+      ]
+    },
+    {
+      "name": "Salads",
+      "items": [
+        { "name": "Haadi Special Salad", "full": 1050, "half": 700 },
+        { "name": "Russian Salad", "full": 950, "half": 490 },
+        { "name": "Pineapple Salad", "full": 980, "half": 480 },
+        { "name": "Kachumar Salad", "price": 280 },
+        { "name": "Fresh Salad", "price": 220 },
+        { "name": "Raita Bowl", "price": 420 },
+        { "name": "Zeera / Mint Raita", "price": 140 }
+      ]
+    },
+    {
+      "name": "Tandoor",
+      "items": [
+        { "name": "Special Cheese Naan", "price": 600 },
+        { "name": "Chicken Cheese Naan", "price": 700 },
+        { "name": "Chicken Naan", "price": 550 },
+        { "name": "Garlic Naan", "price": 130 },
+        { "name": "Kalvanji Naan", "price": 130 },
+        { "name": "Roghni Naan", "price": 120 },
+        { "name": "Plain Naan", "price": 60 },
+        { "name": "Roti (Per Head)", "price": 70 },
+        { "name": "Roti (Per Piece)", "price": 15 },
+        { "name": "Tandoori Paratha", "price": 180 }
+      ]
+    },
+    {
+      "name": "Ice Cream",
+      "items": [
+        { "name": "Mango", "large": 350, "medium": 250, "shake": 450 },
+        { "name": "Chocolate", "large": 350, "medium": 250, "shake": 450 },
+        { "name": "Kulfa", "large": 350, "medium": 250, "shake": 450 },
+        { "name": "Strawberry", "large": 350, "medium": 250, "shake": 450 },
+        { "name": "Vanilla", "large": 350, "medium": 250, "shake": 450 }
+      ]
+    },
+    {
+      "name": "Hot Beverages",
+      "items": [
+        { "name": "Cappuccino Coffee", "price": 280 },
+        { "name": "Creamy Coffee", "price": 280 },
+        { "name": "Mix Tea", "price": 150 },
+        { "name": "Pink Tea", "price": 180 },
+        { "name": "Green Tea", "price": 120 },
+        { "name": "Peshawari Qahwa", "price": 120 }
+      ]
+    },
+    {
+      "name": "Fresh Juices",
+      "items": [
+        { "name": "Mango Shake", "price": 400 },
+        { "name": "Apple Shake", "price": 400 },
+        { "name": "Banana Shake", "price": 300 },
+        { "name": "Strawberry Shake", "price": 400 },
+        { "name": "Peach Shake", "price": 400 },
+        { "name": "Apple Juice", "price": 250 },
+        { "name": "Pine Apple Juice", "price": 350 },
+        { "name": "Orange Juice", "price": 250 },
+        { "name": "Cucumber Juice", "price": 220 }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        { "name": "Mint Margarita", "price": 220 },
+        { "name": "Fresh Lime", "price": 180 },
+        { "name": "Milk Soda (Jug)", "price": 650 },
+        { "name": "Lemon Water (Jug)", "price": 450 },
+        { "name": "Lassi Sweet+Salt (Jug)", "price": 450 },
+        { "name": "Tin Pack", "price": 140 },
+        { "name": "Soft Drink (Regular)", "price": 80 },
+        { "name": "Soft Drink (NR)", "price": 90 },
+        { "name": "Soft Drink (1.5L)", "price": 240 },
+        { "name": "Soft Drink (1L)", "price": 180 },
+        { "name": "Soft Drink (Half Ltr)", "price": 130 },
+        { "name": "Mineral Water (L)", "price": 130 },
+        { "name": "Mineral Water (S)", "price": 80 }
+      ]
+    },
+    {
+      "name": "Chicken Handi",
+      "items": [
+        { "name": "Chicken Special Handi", "full": 1720, "half": 990 },
+        { "name": "Chicken White Handi", "full": 1720, "half": 990 },
+        { "name": "Chicken Makhni Handi", "full": 1720, "half": 990 },
+        { "name": "Chicken Angoori Handi", "full": 1680, "half": 950 },
+        { "name": "Chicken Mughlai Handi", "full": 1720, "half": 990 },
+        { "name": "Chicken G. Chilli Lemon", "full": 1680, "half": 950 },
+        { "name": "Chicken Hyderabadi", "full": 1680, "half": 950 },
+        { "name": "Chicken B/P Handi", "full": 1680, "half": 950 },
+        { "name": "Chicken Achari Handi", "full": 1680, "half": 950 },
+        { "name": "Chicken Qeema Handi", "price": 1580 },
+        { "name": "Chicken Ginger Handi", "price": 1580 },
+        { "name": "Chicken Jalfrezi Handi", "price": 1580 },
+        { "name": "Chicken Patiala Handi", "price": 1890 },
+        { "name": "Chicken Bombay Handi", "price": 1890 },
+        { "name": "Daal Makhni", "price": 580 },
+        { "name": "Shahi Daal", "price": 580 },
+        { "name": "Daal Mash", "price": 500 },
+        { "name": "Mix Vegetable", "price": 500 },
+        { "name": "Fish Handi", "price": 1880 }
+      ]
+    },
+    {
+      "name": "Mutton Karahi",
+      "items": [
+        { "name": "Mutton Special Karahi", "full": 4000, "half": 2150 },
+        { "name": "Mutton White Karahi", "full": 4000, "half": 2150 },
+        { "name": "Mutton Afghani Karahi", "full": 4000, "half": 2150 },
+        { "name": "Mutton Namkeen Karahi", "full": 3950, "half": 2100 },
+        { "name": "Mutton Shenwari Karahi", "full": 3950, "half": 2100 },
+        { "name": "Mutton B/P Karahi", "full": 3950, "half": 2100 },
+        { "name": "Mutton Achari Karahi", "full": 3950, "half": 2100 },
+        { "name": "Mutton Bhoni Karahi", "full": 3950, "half": 2100 },
+        { "name": "Mutton Kabab Karahi", "full": 3900, "half": 2100 }
+      ]
+    },
+    {
+      "name": "Chicken Karahi",
+      "items": [
+        { "name": "Chicken Special Karahi", "full": 1880, "half": 990 },
+        { "name": "Chicken White Karahi", "full": 1880, "half": 990 },
+        { "name": "Chicken Afghani Karahi", "full": 1880, "half": 990 },
+        { "name": "Chicken B/P Karahi", "full": 1850, "half": 980 },
+        { "name": "Chicken Achari Karahi", "full": 1850, "half": 980 },
+        { "name": "Chicken Kabab Karahi", "full": 1850, "half": 980 },
+        { "name": "Chicken Shenwari Karahi", "full": 1850, "half": 980 }
+      ]
+    },
+    {
+      "name": "Beef Karahi",
+      "items": [
+        { "name": "Beef Special Karahi", "full": 2680, "half": 1580 },
+        { "name": "Beef White Karahi", "full": 2680, "half": 1580 },
+        { "name": "Beef Kabab Karahi", "full": 2680, "half": 1500 },
+        { "name": "Beef Boneless", "price": 2000 }
+      ]
+    },
+    {
+      "name": "Pakistani Rice",
+      "items": [
+        { "name": "Chicken Biryani", "full": 820, "half": 420 },
+        { "name": "Hyderabadi Biryani", "full": 920, "half": 500 },
+        { "name": "Chicken Pulao", "price": 880 },
+        { "name": "Mutton Biryani", "full": 1580, "half": 900 },
+        { "name": "Mutton Pulao", "price": 1580 }
+      ]
+    },
+    {
+      "name": "Bar BQ",
+      "items": [
+        { "name": "Malai Boti (12 pcs)", "full": 1320, "half": 450 },
+        { "name": "Kasturi Boti (12 pcs)", "full": 1350, "half": 460 },
+        { "name": "Sheestau Boti (12 pcs)", "full": 1500, "half": 550 },
+        { "name": "Achari Boti (12 pcs)", "full": 840, "half": 290 },
+        { "name": "Chicken Tikka Boti (12 pcs)", "full": 810, "half": 280 },
+        { "name": "Chicken Green Boti (12 pcs)", "full": 1350, "half": 460 },
+        { "name": "Chicken Leg", "price": 450 },
+        { "name": "Chicken Chest", "price": 450 }
+      ]
+    },
+    {
+      "name": "Kabab",
+      "items": [
+        { "name": "Chicken Kabab (4 pcs)", "full": 980, "half": 250 },
+        { "name": "Chicken Reshmi Kabab (4 pcs)", "full": 1080, "half": 280 },
+        { "name": "Chicken Kastori Kabab (4 pcs)", "full": 1080, "half": 280 },
+        { "name": "Chicken Gola Kabab (4 pcs)", "full": 980, "half": 250 },
+        { "name": "Mutton Kabab (4 pcs)", "full": 1380, "half": 350 },
+        { "name": "Beef Kabab (4 pcs)", "full": 1180, "half": 300 }
+      ]
+    },
+    {
+      "name": "Chinese Gravy",
+      "items": [
+        { "name": "Haadi Special Chicken", "price": 980 },
+        { "name": "Chicken Mangolian", "price": 880 },
+        { "name": "Chicken Manchurian", "price": 820 },
+        { "name": "Chicken Black Pepper", "price": 780 },
+        { "name": "Chicken Almond", "price": 990 },
+        { "name": "Chicken Soshi", "price": 880 },
+        { "name": "Chicken Hot Plate", "price": 850 },
+        { "name": "Chicken Chilli", "price": 780 },
+        { "name": "Chicken Chilli Dry", "price": 980 },
+        { "name": "Chicken Mandera", "price": 820 }
+      ]
+    },
+    {
+      "name": "Chinese Rice",
+      "items": [
+        { "name": "Haadi Special Rice", "price": 950 },
+        { "name": "Chicken Fried Rice", "price": 780 },
+        { "name": "Garlic Rice", "price": 740 },
+        { "name": "Chicken Masala Rice", "price": 740 },
+        { "name": "Egg Fried Rice", "price": 740 },
+        { "name": "Veg Fried Rice", "price": 740 },
+        { "name": "Shashlik With Rice", "price": 820 },
+        { "name": "Manchurian With Rice", "price": 820 },
+        { "name": "Plain Butter Rice", "price": 480 }
+      ]
+    },
+    {
+      "name": "Fast Food",
+      "items": [
+        { "name": "Zinger Burger", "price": 460 },
+        { "name": "Chicken Cheese Burger", "price": 520 },
+        { "name": "Chicken Burger", "price": 380 },
+        { "name": "Chicken Sandwich", "price": 490 },
+        { "name": "Club Sandwich", "price": 550 },
+        { "name": "Chicken Shawarma", "price": 280 },
+        { "name": "Zinger Shawarma", "price": 380 },
+        { "name": "Chicken Paratha Roll", "price": 620 }
+      ]
+    },
+    {
+      "name": "Chicken Steak",
+      "items": [
+        { "name": "Haadi Special Steak", "price": 1250 },
+        { "name": "Chicken B/P Steak", "price": 1150 },
+        { "name": "Chicken Mexican Steak", "price": 1150 },
+        { "name": "Chicken Pineapple Steak", "price": 1150 }
+      ]
+    },
+    {
+      "name": "Sweets",
+      "items": [
+        { "name": "Hot Gulab Jamun (1kg)", "price": 1450 },
+        { "name": "Kheer", "price": 1450 },
+        { "name": "Firni", "price": 1450 },
+        { "name": "Gajer Halwa (Seasonal)", "price": 1450 }
+      ]
+    },
+    {
+      "name": "Noodles",
+      "items": [
+        { "name": "Haadi Special Chowmein", "full": 1050, "half": 600 },
+        { "name": "Chicken Chowmein", "full": 990, "half": 600 }
+      ]
+    }
+  ]
+}
